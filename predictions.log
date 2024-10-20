@@ -1,0 +1,3 @@
+2024-10-20 21:12:08,623 - Error processing image C:/Users/harsha/Downloads/boost.jpg: /usr/bin/tesseract is not installed or it's not in your PATH. See README file for more information.
+2024-10-20 21:13:56,136 - Error processing image C:/Users/harsha/Pictures/Screenshots/Screenshot 2024-10-19 203141.png: /usr/bin/tesseract is not installed or it's not in your PATH. See README file for more information.
+2024-10-20 21:15:18,618 - Error processing image C:/Users/harsha/Downloads/fig3cao.jpg: [Errno 2] No such file or directory: 'C:\\Users\\harsha\\Downloads\\fig3cao.jpg'
